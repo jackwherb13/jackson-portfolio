@@ -20,8 +20,7 @@ export default function Navigation() {
             <a
               key={l.href}
               href={l.href}
-              className="px-3 py-1 rounded-md transition transform hover:-translate-y-0.5 hover:bg-white/10 hover:text-white"
-            >
+              className="font-semibold tracking-tight text-neutral-600 px-2 py-1 rounded transition hover:outline hover:outline-2 hover:outline-neutral-600">
               {l.label}
             </a>
           ))}
