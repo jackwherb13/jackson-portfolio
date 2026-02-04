@@ -11,7 +11,7 @@ export default function Navigation() {
   return (
     <header className="sticky top-0 z-50 border-b bg-white/80 backdrop-blur">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
-        <a href="#" className="font-semibold tracking-tight text-blue-600 hover:text-blue-800 transition">
+        <a href="#" className="font-semibold tracking-tight text-black px-2 py-1 rounded transition hover:outline hover:outline-1 hover:outline-black">
           Jackson Herbert
         </a>
 
