@@ -16,7 +16,7 @@ export default function Hero() {
 
       <div className="mt-8 flex flex-wrap gap-3">
         <a
-          href="/Jackson_Herbert_Resume.pdf"
+          href="/JacksonHerbertResume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="rounded-xl bg-white px-5 py-3 font-medium text-black hover:bg-white/90"
@@ -25,12 +25,13 @@ export default function Hero() {
         </a>
 
         <a
-          className="rounded-xl bg-black px-5 py-3 text-white"
-          href="#projects"
-        >
+          className="rounded-xl border px-5 py-3 text-white"
+          href="#projects">
           View Projects
         </a>
-        <a className="rounded-xl border px-5 py-3" href="#contact">
+        <a 
+          className="rounded-xl border px-5 py-3" 
+          href="#contact">
           Contact
         </a>
       </div>
