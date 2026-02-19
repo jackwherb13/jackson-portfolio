@@ -21,7 +21,7 @@ export default function Hero() {
           rel="noopener noreferrer"
           className="rounded-xl bg-white px-5 py-3 font-medium text-black hover:bg-white/90"
         >
-          Download Resume
+          View Resume
         </a>
 
         <a
