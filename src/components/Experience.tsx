@@ -14,7 +14,7 @@ export default function Experience() {
           AI Platform Beta Tester & Software Development Intern
         </p>
         <p className="mt-1 text-sm text-white/60">
-          Remote · 2024 – Present
+          Remote · 2025 – Present
         </p>
 
         <ul className="mt-4 list-disc space-y-2 pl-5 text-white/80">
